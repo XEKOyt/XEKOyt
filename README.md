@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XEKO
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning javascript
+- 😄 Pronouns: the king of cringe
+- ⚡ Fun fact: i like pasta
