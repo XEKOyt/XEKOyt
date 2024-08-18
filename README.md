@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @XEKO
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 😄 Pronouns: the king of cringe
-- ⚡ Fun fact: i like pasta
+One time my dad made me a sandwich so shout out to him (at least he didint go to get the milk)
+And another shout out to me cuz im sigma
