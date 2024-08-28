@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python projects and roblox games**
+ 🔭 I’m currently working on **Godot games**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **python and GDScript**
 
 💬 Ask me about **Food! nah joke aside roblox scriting :)**
 
