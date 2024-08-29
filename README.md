@@ -36,9 +36,14 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,lua,godot" /><br>
+
+### Advanced
+![Advanced](https://skillicons.dev/icons?i=lua,java)
+### Intermediate
+![Intermediate](https://skillicons.dev/icons?i=js,powershell,cmd,basic,python,vscode)
+### Novice
+![Novice](https://skillicons.dev/icons?i=godot,GDScript,blender)
+
 </div>
 
 <br/>
