@@ -40,9 +40,9 @@
 ### Advanced
 ![Advanced](https://skillicons.dev/icons?i=lua,java)
 ### Intermediate
-![Intermediate](https://skillicons.dev/icons?i=js,powershell,cmd,basic,python,vscode)
+![Intermediate](https://skillicons.dev/icons?i=js,powershell,python,vscode)
 ### Novice
-![Novice](https://skillicons.dev/icons?i=godot,GDScript,blender)
+![Novice](https://skillicons.dev/icons?i=godot,C++,c#,blender)
 
 </div>
 
