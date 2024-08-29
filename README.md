@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+XEKO!;" />
 </h1>
 
-<h3 align="center">A passionate developer from [Ohio](https://www.youtube.com/watch?v=zx0DIyIAhmI) 😊</h3>
+A passionate developer from [Ohio](https://www.youtube.com/watch?v=zx0DIyIAhmI) 😊
 
 <br/>
 
