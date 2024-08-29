@@ -36,6 +36,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<div align="center">
 
 ### Advanced
 ![Advanced](https://skillicons.dev/icons?i=lua,java)
@@ -43,6 +44,8 @@
 ![Intermediate](https://skillicons.dev/icons?i=js,powershell,python,vscode,blender)
 ### Novice
 ![Novice](https://skillicons.dev/icons?i=godot,cpp,c)
+
+</div>
 
 </div>
 
