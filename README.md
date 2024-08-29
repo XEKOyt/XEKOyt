@@ -44,7 +44,7 @@
 ### Advanced
 ![Advanced](https://skillicons.dev/icons?i=lua,java)
 ### Intermediate
-![Intermediate](https://skillicons.dev/icons?i=js,powershell,python,vscode,blender)
+![Intermediate](https://skillicons.dev/icons?i=js,powershell,python,vscode,blender,pycharm)
 ### Novice
 ![Novice](https://skillicons.dev/icons?i=godot,cpp,cs)
 
