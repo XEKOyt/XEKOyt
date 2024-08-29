@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **[Python](https://www.python.org/) and [GDScript](https://docs.godotengine.org/fr/4.x/tutorials/scripting/gdscript/gdscript_basics.html)**
 
-💬 Ask me about **Food! nah joke aside roblox scriting :)**
+💬 Ask me about **[Food](https://en.wikipedia.org/wiki/Food)! nah joke aside [roblox scriting](https://create.roblox.com/docs/scripting) :)**
 
-⚡ Fun fact **I love pasta :) (verry yummy)**
+⚡ Fun fact **I love [pasta](https://www.just-eat.fr/foodwiki/italie/pasta/) :) (verry yummy)**
 
  </div>
  
