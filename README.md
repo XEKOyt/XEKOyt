@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **[Godot games](https://godotengine.org/)**
  
- 🌱 I’m currently learning **[python](https://www.python.org/) and [GDScript](https://docs.godotengine.org/fr/4.x/tutorials/scripting/gdscript/gdscript_basics.html)**
+ 🌱 I’m currently learning **[Python](https://www.python.org/) and [GDScript](https://docs.godotengine.org/fr/4.x/tutorials/scripting/gdscript/gdscript_basics.html)**
 
 💬 Ask me about **Food! nah joke aside roblox scriting :)**
 
