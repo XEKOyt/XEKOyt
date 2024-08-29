@@ -30,7 +30,7 @@
   <a href="https://guns.lol/XEKO_YT" target="_blank">
      <img src="https://img.shields.io/badge/Socials-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    <a href="discord.gg/rnY3uhfp" target="_blank">
+    <a href="https://discord.gg/rnY3uhfp" target="_blank">
     <img src="https://img.shields.io/badge/Discord-4f5ae3?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 </div>
