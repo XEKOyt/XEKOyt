@@ -45,7 +45,7 @@
 ### Intermediate
 ![Intermediate](https://skillicons.dev/icons?i=js,powershell,python,vscode,blender,pycharm,swift)
 ### Novice
-![Novice](https://skillicons.dev/icons?i=godot,cpp,cs,html)
+![Novice](https://skillicons.dev/icons?i=godot,cpp,cs,html,css)
 
 </div>
 
