@@ -15,7 +15,7 @@
 
 💬 Ask me about **[Food](https://en.wikipedia.org/wiki/Food)! nah joke aside [roblox scriting](https://create.roblox.com/docs/scripting) :)**
 
-⚡ Fun fact **I love [pasta](https://www.just-eat.fr/foodwiki/italie/pasta/) :) (verry yummy)**
+⚡ Fun fact **I love [pasta](https://farahjeats.com/recipe/easy-butter-cheese-pasta-20-minutes/) :) (verry yummy)**
 
  </div>
  
