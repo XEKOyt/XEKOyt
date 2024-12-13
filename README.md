@@ -41,11 +41,11 @@
 <div align="center">
 
 ### Advanced
-![Advanced](https://skillicons.dev/icons?i=lua,java)
+![Advanced](https://skillicons.dev/icons?i=lua,java,html,css,js)
 ### Intermediate
-![Intermediate](https://skillicons.dev/icons?i=js,powershell,python,vscode,blender,pycharm,swift)
+![Intermediate](https://skillicons.dev/icons?i=powershell,python,vscode,blender,pycharm,swift,godot)
 ### Novice
-![Novice](https://skillicons.dev/icons?i=godot,cpp,cs,html,css)
+![Novice](https://skillicons.dev/icons?i=cpp,cs)
 
 </div>
 
