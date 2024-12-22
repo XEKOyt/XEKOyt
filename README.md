@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[Godot games](https://godotengine.org/)**
+ 🔭 I’m currently working on **Websites**
  
- 🌱 I’m currently learning **[Python](https://www.python.org/) and [GDScript](https://docs.godotengine.org/fr/4.x/tutorials/scripting/gdscript/gdscript_basics.html)**
+ 🌱 I’m currently learning **Backend and Exploiting my school network (not joking)**
 
 💬 Ask me about **[Food](https://en.wikipedia.org/wiki/Food)! nah joke aside [roblox scriting](https://create.roblox.com/docs/scripting) :)**
 
@@ -41,11 +41,11 @@
 <div align="center">
 
 ### Advanced
-![Advanced](https://skillicons.dev/icons?i=lua,java,html,css,js)
+![Advanced](https://skillicons.dev/icons?i=lua,html,css,js,vscode,pycharm)
 ### Intermediate
-![Intermediate](https://skillicons.dev/icons?i=powershell,python,vscode,blender,pycharm,swift,godot)
+![Intermediate](https://skillicons.dev/icons?i=java,python,blender,swift,godot,cs)
 ### Novice
-![Novice](https://skillicons.dev/icons?i=cpp,cs)
+![Novice](https://skillicons.dev/icons?i=cpp,php,json)
 
 </div>
 
