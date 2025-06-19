@@ -1,125 +1,257 @@
+<!-- Header with animated background -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=XEKOyt.XEKOyt" alt="Profile Views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=XEKO%20YT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
+<!-- Visitor counter with sleek design -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+XEKO!;Welcome+to+my+Profile!" />
+  <img src="https://komarev.com/ghpvc/?username=XEKOyt&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/XEKOyt?style=for-the-badge&color=orange&labelColor=ce4630" alt="Followers"/>
 </div>
 
+<!-- Dynamic typing animation with multiple lines -->
 <div align="center">
-  <h3>🚀 Passionate Developer from Ohio | Building the Future, One Line at a Time</h3>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+XEKO!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Network+Security+Enthusiast+%F0%9F%94%90;Roblox+Scripting+Expert+%F0%9F%8E%AE;Always+learning+new+technologies+%F0%9F%93%9A;Powered+by+pasta+and+caffeine+%E2%98%95%F0%9F%8D%9D" alt="Typing SVG"/>
 </div>
 
----
+<!-- About section with professional styling -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+    About Me
+  </h2>
+</div>
 
-## 🧑‍💻 About Me
-
-```yaml
-name: XEKO
-location: Ohio, USA
-focus: Full-Stack Development & Network Security
-currently_working_on: Web Applications & System Architecture
-learning: Backend Development & Ethical Hacking
-fun_fact: Pasta enthusiast who codes better after a good meal 🍝
+```typescript
+const xeko = {
+    location: "Ohio, USA 🌽",
+    code: ["Lua", "JavaScript", "Python", "Java", "C#", "Swift"],
+    askMeAbout: ["web dev", "roblox scripting", "network security", "pasta recipes"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Vanilla JS"],
+            css: ["Tailwind", "Bootstrap", "Sass"]
+        },
+        backEnd: {
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"],
+            csharp: [".NET Core"]
+        },
+        devOps: ["Docker", "AWS", "GitHub Actions"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        misc: ["Roblox Studio", "Blender", "Unity"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug better after eating pasta 🍝"
+};
 ```
 
+<!-- Enhanced social links with hover effects -->
 <div align="center">
+  <h2>🌐 Connect With Me</h2>
   
-🔭 **Currently Working On:** Building scalable web applications  
-🌱 **Currently Learning:** Advanced backend architectures & network security  
-💬 **Ask Me About:** Roblox scripting, web development, or the perfect pasta recipe!  
-⚡ **Fun Fact:** I believe the best code is written with a full stomach 🍝
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
   <a href="mailto:ytb.xeko.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
-  <a href="https://www.youtube.com/@XEKO_YT" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@XEKO_YT">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
-  <a href="https://guns.lol/XEKO_YT" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://guns.lol/XEKO_YT">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white&labelColor=00C7B7" alt="Portfolio"/>
   </a>
-  <a href="https://pastebin.com/Dgjyg35G" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://pastebin.com/Dgjyg35G">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
   </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- Advanced tech stack with categories -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    Tech Stack & Tools
+  </h2>
+</div>
+
+<details open>
+<summary><b>🎯 Primary Technologies</b></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,python,java&perline=6&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,django,flask,spring,dotnet&perline=6&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,docker,aws&perline=6&theme=dark" />
+</div>
+</details>
+
+<details>
+<summary><b>🎨 Creative & Game Development</b></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,figma&perline=5&theme=dark" />
+</div>
+</details>
+
+---
+
+<!-- Skill progression bars -->
+<div align="center">
+  <h2>📊 Skill Levels</h2>
+</div>
 
 <div align="center">
 
-### 🚀 **Advanced Proficiency**
-<img src="https://skillicons.dev/icons?i=lua,html,css,js,vscode,pycharm&theme=dark" />
-
-### 📈 **Intermediate Level**
-<img src="https://skillicons.dev/icons?i=java,python,blender,swift,godot,cs&theme=dark" />
-
-### 🌱 **Learning & Exploring**
-<img src="https://skillicons.dev/icons?i=cpp,php,json,nodejs,react,mysql&theme=dark" />
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| 🌙 Lua | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=120&color=babaca&suffix=%) | 4+ years |
+| 🌐 JavaScript | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=120&color=babaca&suffix=%) | 3+ years |
+| 🐍 Python | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=120&color=babaca&suffix=%) | 3+ years |
+| ☕ Java | ![70%](https://progress-bar.dev/70/?scale=100&title=Intermediate&width=120&color=babaca&suffix=%) | 2+ years |
+| 🎮 Roblox Studio | ![95%](https://progress-bar.dev/95/?scale=100&title=Expert&width=120&color=babaca&suffix=%) | 5+ years |
+| 🔒 Network Security | ![65%](https://progress-bar.dev/65/?scale=100&title=Learning&width=120&color=babaca&suffix=%) | 1+ year |
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
-
+<!-- GitHub stats with enhanced design -->
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=XEKOyt&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=XEKOyt&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git">
+    GitHub Analytics
+  </h2>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=XEKOyt&hide=HTML&langs_count=10&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XEKOyt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XEKOyt&layout=compact&langs_count=8&theme=algolia&hide_border=true&exclude_repo=github-readme-stats"/>
 </div>
 
----
-
-## 🐍 Contribution Graph
-
 <div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/XEKOyt/XEKOyt/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XEKOyt&theme=algolia&hide_border=true" alt="Streak Stats"/>
 </div>
 
----
-
-## 🎯 Current Projects & Goals
-
+<!-- Activity graph -->
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XEKOyt&custom_title=XEKO's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
-| 🎯 **Goals** | 📊 **Status** |
-|-------------|---------------|
-| Master Backend Development | 🟡 In Progress |
-| Build 5 Full-Stack Projects | 🟢 3/5 Complete |
-| Contribute to Open Source | 🟡 Getting Started |
-| Learn DevOps & Cloud | 🔴 Planning Phase |
-
+<!-- Snake animation -->
+<div align="center">
+  <img alt="Snake eating commits" src="https://raw.githubusercontent.com/XEKOyt/XEKOyt/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
 
-## 💝 Support My Work
+<!-- Project showcase -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 
 <div align="center">
-  <p>If you enjoy my projects and want to support my journey, consider buying me a coffee!</p>
   
-  <a href='https://buymeacoffee.com/xeko_yt' target='_blank'>
-    <img height='60' style='border:0px;height:60px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' />
-  </a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=awesome-project&theme=algolia&hide_border=true)](https://github.com/XEKOyt/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=another-project&theme=algolia&hide_border=true)](https://github.com/XEKOyt/another-project)
+
 </div>
 
 ---
 
+<!-- Achievements and goals -->
 <div align="center">
-  <h3>⭐ Thanks for visiting! Don't forget to star some repositories if you find them interesting! ⭐</h3>
+  <h2>🏆 Achievements & Goals</h2>
+</div>
+
+<div align="center">
+
+### 🎯 2025 Goals
+- [ ] 🚀 Launch 3 major web applications
+- [ ] 📚 Master DevOps and Cloud Architecture
+- [ ] 🤝 Contribute to 10 open-source projects
+- [ ] 🎓 Obtain AWS Cloud Practitioner certification
+- [ ] 🌟 Reach 1000 GitHub stars across all repos
+- [ ] 🍝 Perfect the ultimate pasta coding fuel recipe
+
+### 🏅 Achievements Unlocked
+- ✅ **Roblox Master**: 5+ years of Lua scripting expertise
+- ✅ **Code Warrior**: 500+ commits this year
+- ✅ **Problem Solver**: Debugged countless network issues
+- ✅ **Content Creator**: Active YouTube tech channel
+- ✅ **Team Player**: Collaborated on multiple projects
+
+</div>
+
+---
+
+<!-- GitHub metrics -->
+<div align="center">
+  <h2>📈 Detailed GitHub Metrics</h2>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://metrics.lecoq.io/XEKOyt?template=classic&config.timezone=America%2FNew_York&base.indepth=false&base.hireable=false&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York" alt="GitHub Metrics"/>
+</div>
+
+---
+
+<!-- Spotify integration -->
+<div align="center">
+  <h2>🎵 Coding Playlist</h2>
+  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlp47m6ghtk52mf5k5l6pu7y&count=3&unique=true" alt="Spotify recently played"/>
+</div>
+
+---
+
+<!-- Random dev joke -->
+<div align="center">
+  <h2>😄 Developer Humor</h2>
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card"/>
+</div>
+
+---
+
+<!-- Quote of the day -->
+<div align="center">
+  <h2>💭 Daily Inspiration</h2>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quote"/>
+</div>
+
+---
+
+<!-- Support section with enhanced design -->
+<div align="center">
+  <h2>💖 Support My Journey</h2>
+  
+  <p>If my work has helped you or you enjoy my content, consider supporting me!</p>
+  
+  <a href='https://buymeacoffee.com/xeko_yt'>
+    <img height='50' style='border:0px;height:50px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me A Coffee'/>
+  </a>
+  
+  <p><i>Your support helps me create better content and contribute more to the open-source community! 🚀</i></p>
+</div>
+
+---
+
+<!-- Footer with animated wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+<!-- Last commit and build status -->
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/XEKOyt/XEKOyt?style=for-the-badge&color=purple" alt="Last Commit"/>
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge" alt="Made with Love"/>
 </div>
