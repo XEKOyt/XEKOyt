@@ -121,7 +121,7 @@ const xeko = {
 <div align="center">
   <h2>🎵 Coding Playlist</h2>
   
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlp47m6ghtk52mf5k5l6pu7y&count=3&unique=true" alt="Spotify recently played"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yjrnftf425xaxxfgzsv7676cta&count=3&unique=true" alt="Spotify recently played"/>
 </div>
 
 <div align="center">
