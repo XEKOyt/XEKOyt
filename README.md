@@ -113,12 +113,11 @@ const xeko = {
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| 🌙 Lua | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=120&color=babaca&suffix=%) | 4+ years |
-| 🌐 JavaScript | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=120&color=babaca&suffix=%) | 3+ years |
-| 🐍 Python | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=120&color=babaca&suffix=%) | 3+ years |
-| ☕ Java | ![70%](https://progress-bar.dev/70/?scale=100&title=Intermediate&width=120&color=babaca&suffix=%) | 2+ years |
-| 🎮 Roblox Studio | ![95%](https://progress-bar.dev/95/?scale=100&title=Expert&width=120&color=babaca&suffix=%) | 5+ years |
-| 🔒 Network Security | ![65%](https://progress-bar.dev/65/?scale=100&title=Learning&width=120&color=babaca&suffix=%) | 1+ year |
+| 🌙 Lua | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=120&color=babaca&suffix=%) | 2+ years |
+| 🌐 JavaScript | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=120&color=babaca&suffix=%) | 1+ years |
+| 🐍 Python | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=120&color=babaca&suffix=%) | 2+ years |
+| ☕ Java | ![70%](https://progress-bar.dev/70/?scale=100&title=Intermediate&width=120&color=babaca&suffix=%) | 6+ months |
+| 🎮 Roblox Studio | ![95%](https://progress-bar.dev/95/?scale=100&title=Expert&width=120&color=babaca&suffix=%) | 3+ years |
 
 </div>
 
@@ -130,11 +129,6 @@ const xeko = {
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git">
     GitHub Analytics
   </h2>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XEKOyt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XEKOyt&layout=compact&langs_count=8&theme=algolia&hide_border=true&exclude_repo=github-readme-stats"/>
 </div>
 
 <div align="center">
