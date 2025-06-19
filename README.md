@@ -145,57 +145,6 @@ const xeko = {
   <img alt="Snake eating commits" src="https://raw.githubusercontent.com/XEKOyt/XEKOyt/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
----
-
-<!-- Project showcase -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=awesome-project&theme=algolia&hide_border=true)](https://github.com/XEKOyt/awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=another-project&theme=algolia&hide_border=true)](https://github.com/XEKOyt/another-project)
-
-</div>
-
----
-
-<!-- Achievements and goals -->
-<div align="center">
-  <h2>🏆 Achievements & Goals</h2>
-</div>
-
-<div align="center">
-
-### 🎯 2025 Goals
-- [ ] 🚀 Launch 3 major web applications
-- [ ] 📚 Master DevOps and Cloud Architecture
-- [ ] 🤝 Contribute to 10 open-source projects
-- [ ] 🎓 Obtain AWS Cloud Practitioner certification
-- [ ] 🌟 Reach 1000 GitHub stars across all repos
-- [ ] 🍝 Perfect the ultimate pasta coding fuel recipe
-
-### 🏅 Achievements Unlocked
-- ✅ **Roblox Master**: 5+ years of Lua scripting expertise
-- ✅ **Code Warrior**: 500+ commits this year
-- ✅ **Problem Solver**: Debugged countless network issues
-- ✅ **Content Creator**: Active YouTube tech channel
-- ✅ **Team Player**: Collaborated on multiple projects
-
-</div>
-
----
-
-<!-- GitHub metrics -->
-<div align="center">
-  <h2>📈 Detailed GitHub Metrics</h2>
-  
-  <img src="https://metrics.lecoq.io/XEKOyt?template=classic&config.timezone=America%2FNew_York&base.indepth=false&base.hireable=false&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York" alt="GitHub Metrics"/>
-</div>
-
----
-
 <!-- Spotify integration -->
 <div align="center">
   <h2>🎵 Coding Playlist</h2>
@@ -203,25 +152,6 @@ const xeko = {
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlp47m6ghtk52mf5k5l6pu7y&count=3&unique=true" alt="Spotify recently played"/>
 </div>
 
----
-
-<!-- Random dev joke -->
-<div align="center">
-  <h2>😄 Developer Humor</h2>
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card"/>
-</div>
-
----
-
-<!-- Quote of the day -->
-<div align="center">
-  <h2>💭 Daily Inspiration</h2>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quote"/>
-</div>
-
----
 
 <!-- Support section with enhanced design -->
 <div align="center">
