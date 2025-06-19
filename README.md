@@ -117,7 +117,7 @@ const xeko = {
   <img alt="Snake eating commits" src="https://raw.githubusercontent.com/XEKOyt/XEKOyt/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-<!-- Spotify thingy (I need to fix that mais tkt) -->
+<!-- fixed -->
 <div align="center">
   <h2>🎵 Coding Playlist</h2>
   
