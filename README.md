@@ -81,7 +81,7 @@ const xeko = {
 <details>
 <summary><b>🎨 Creative & Game Development</b></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,ae,pr&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,ae,pr&=5&theme=dark" />
 </div>
 </details>
 
