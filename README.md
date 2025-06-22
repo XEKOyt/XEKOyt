@@ -64,21 +64,21 @@ const xeko = {
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>📉 Secondary Technologies</b></summary>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,cs,java,php,typescript,dotnet&perline=6&theme=dark" />
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>🛠️ Tools & Platforms</b></summary>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,neovim,github,discord,arch,windows&perline=6&theme=dark" />
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Creative & Game Development</b></summary>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,ae,pr&=5&theme=dark" />
