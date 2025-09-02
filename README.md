@@ -1,33 +1,36 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=XEKO%20YT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,7,12,20&height=200&section=header&text=XEKO%20YT&fontSize=48&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20universe!&descAlignY=60"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=XEKOyt&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/XEKOyt?style=for-the-badge&color=orange&labelColor=ce4630" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/XEKOyt?style=for-the-badge&color=yellow&labelColor=ff6b35" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-September%202025-blue?style=for-the-badge" alt="Last Updated"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+XEKO!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Roblox+Scripting+Expert+%F0%9F%8E%AE;Always+learning+new+technologies+%F0%9F%93%9A;Powered+by+pasta+and+caffeine+%E2%98%95%F0%9F%8D%9D" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=34&duration=2500&pause=1500&color=A9FEF7&center=true&vCenter=true&width=960&lines=Hey+there%2C+I'm+XEKO!+%F0%9F%91%8B;Full+Stack+Dev+%26+Roblox+Wizard+%F0%9F%9A%80;Crafting+Epic+Games+%26+Web+Apps+%F0%9F%8E%AE;Fueled+by+Caffeine+%26+Creativity+%E2%98%95;Always+Exploring+New+Tech+%F0%9F%93%9A" alt="Typing SVG"/>
 </div>
+
+---
 
 <div align="center">
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
     About Me
   </h2>
 </div>
 
 ```typescript
 const xeko = {
-    location: "Ohio, USA 🌽",
-    code: ["Luau", "JavaScript", "Python", "Java", "C#", "Swift"],
-    askMeAbout: ["web dev", "roblox scripting", "game development", "pasta recipes"],
-    currently_doing: "Making my portfolio",
-    funFact: "I debug better after eating pasta 🍝",
-    goals: ["Master React & Node.js", "Build epic Roblox games", "Contribute to OSS"],
-    motto: "Code. Create. Repeat. 🔁"
+  location: "Ohio, USA 🌽",
+  code: ["Luau", "JavaScript", "TypeScript", "Python", "C#", "Java", "Swift"],
+  askMeAbout: ["web dev", "roblox scripting", "game dev", "pasta recipes", "tech trends"],
+  currently_doing: "Building a next-gen portfolio & epic Roblox games",
+  funFact: "I debug code faster after a plate of spaghetti 🍝",
+  goals: ["Master Next.js & Web3", "Launch a viral Roblox game", "Lead an OSS project"],
+  motto: "Code. Innovate. Conquer. 🔁"
 };
 ```
 
@@ -46,6 +49,9 @@ const xeko = {
   <a href="https://pastebin.com/Dgjyg35G">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
   </a>
+  <a href="https://twitter.com/XEKO_YT">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
 </div>
 
 ---
@@ -58,30 +64,30 @@ const xeko = {
 </div>
 
 <details open>
-<summary><b>🏆 Primary Technologies</b></summary>
+<summary><b>🏆 Core Technologies</b></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,python,cpp&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,python,cpp,react&perline=8&theme=dark" />
 </div>
 </details>
 
 <details open>
-<summary><b>📉 Secondary Technologies</b></summary>
+<summary><b>📉 Emerging Technologies</b></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,cs,java,php,typescript,dotnet&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,cs,java,php,dotnet,tailwind&perline=8&theme=dark" />
 </div>
 </details>
 
 <details open>
 <summary><b>🛠️ Tools & Platforms</b></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,github,discord,arch,windows&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,github,discord,arch,windows,git,figma&perline=8&theme=dark" />
 </div>
 </details>
 
 <details open>
 <summary><b>🎨 Creative & Game Development</b></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,ae,pr&=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,ae,pr,unreal&perline=8&theme=dark" />
 </div>
 </details>
 
@@ -95,13 +101,31 @@ const xeko = {
 
 | Language | Skill Level | Experience | Primary Use |
 |----------|-------------|------------|-------------|
-| 🌙 Luau | ![Mastered](https://img.shields.io/badge/Mastered-gold) | 3+ years | Roblox Game Development |
-| 🟨 JavaScript | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | 1.5+ years | Web Development & Automation |
-| 🐍 Python | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | 2+ years | Backend & Scripting |
-| ☕ Java | ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | 8+ months | Desktop Applications |
-| 🎯 C# | ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | 6+ months | Unity Game Development |
-| 🔷 Swift | ![Beginner](https://img.shields.io/badge/Beginner-red) | 3+ months | iOS Development |
-| 🎮 Roblox Studio | ![Expert](https://img.shields.io/badge/Expert-purple) | 3+ years | Game Creation & UI Design |
+| 🌙 Luau | ![Mastered](https://img.shields.io/badge/Mastered-gold) | 4+ years | Roblox Game Development |
+| 🟨 JavaScript | ![Expert](https://img.shields.io/badge/Expert-purple) | 2+ years | Web Development & Automation |
+| 🟦 TypeScript | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | 1+ year | Scalable Web Apps |
+| 🐍 Python | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | 2.5+ years | Backend & AI Scripting |
+| ☕ Java | ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | 1+ year | Desktop & Android Apps |
+| 🎯 C# | ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | 8+ months | Unity Game Development |
+| 🔷 Swift | ![Beginner](https://img.shields.io/badge/Beginner-red) | 6+ months | iOS Development |
+| 🎮 Roblox Studio | ![Expert](https://img.shields.io/badge/Expert-purple) | 4+ years | Game Creation & UI Design |
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🎓 Certifications & Learning</h2>
+</div>
+
+<div align="center">
+
+| Certification | Provider | Date Earned | Focus |
+|---------------|----------|-------------|-------|
+| Full Stack Web Development | FreeCodeCamp | 2024 | JavaScript, React, Node.js |
+| Roblox Lua Masterclass | DevCommunity | 2023 | Luau, Game Mechanics |
+| Python for Data Science | Coursera | 2024 | Python, Data Analysis |
+| Unity Certified Developer | Unity | 2025 | C#, Game Development |
 
 </div>
 
@@ -112,7 +136,7 @@ const xeko = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XEKOyt&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=XEKOyt&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -120,8 +144,9 @@ const xeko = {
 | 🎯 Achievement | 📅 Date | 🏅 Status |
 |---------------|----------|-----------|
 | YouTube 100K Subscribers | 2023 | ✅ Completed |
-| 100+ GitHub Stars | 2024 | 🔄 In Progress |
-| First Commercial Game Release | 2025 | 📅 Planned |
+| 100+ GitHub Stars | 2024 | ✅ Completed |
+| First Commercial Game Release | 2025 | 🔄 In Progress |
+| Open Source Contributor | 2025 | 📅 Planned |
 
 </div>
 
@@ -133,10 +158,13 @@ const xeko = {
 
 <div align="center">
   <a href="https://github.com/XEKOyt/Discord-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=Discord-bot&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Discord Bot"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=Discord-bot&theme=onedark&border_color=7F3FBF&bg_color=0D1117" alt="Discord Bot"/>
   </a>
   <a href="https://github.com/XEKOyt/chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=chat-app&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Chat Application"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=chat-app&theme=onedark&border_color=7F3FBF&bg_color=0D1117" alt="Chat Application"/>
+  </a>
+  <a href="https://github.com/XEKOyt/roblox-rpg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=roblox-rpg&theme=onedark&border_color=7F3FBF&bg_color=0D1117" alt="Roblox RPG"/>
   </a>
 </div>
 
@@ -149,11 +177,11 @@ const xeko = {
 <div align="center">
 
 ```diff
-+ 🗨️ Building my personal portfolio website
-+ 🎮 Developing a multiplayer Roblox game with friends
-+ 📺 Growing my gaming/dev YouTube channel
-+ 💼 Learning advanced React patterns and Node.js
-+ 🌟 Contributing to open source projects
++ 🌐 Crafting a Next.js-powered portfolio
++ 🎮 Leading a multiplayer Roblox RPG project
++ 📺 Scaling my YouTube channel with dev tutorials
++ 🚀 Mastering advanced TypeScript & Web3
++ 🌟 Contributing to open source & mentoring devs
 ```
 
 </div>
@@ -168,16 +196,16 @@ const xeko = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XEKOyt&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=A9FEF7&icon_color=7F3FBF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEKOyt&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=A9FEF7&text_color=FFFFFF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XEKOyt&show_icons=true&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=A9FEF7&icon_color=7F3FBF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEKOyt&layout=compact&theme=onedark&border_color=7F3FBF&bg_color=0D1117&title_color=A9FEF7&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XEKOyt&theme=radical&border=7F3FBF&background=0D1117&ring=A9FEF7&fire=7F3FBF&currStreakLabel=A9FEF7" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XEKOyt&theme=onedark&border=7F3FBF&background=0D1117&ring=A9FEF7&fire=7F3FBF&currStreakLabel=A9FEF7" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XEKOyt&custom_title=XEKO's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XEKOyt&custom_title=XEKO's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=A9FEF7&point=7F3FBF&area_color=FFFFFF&title_color=A9FEF7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
@@ -192,14 +220,14 @@ const xeko = {
 
 <div align="center">
 
-> *"Tant que ca marche ca marche"* - Me, in a random tech class at 8:30 am on a Monday.
+> *"Code is poetry, bugs are plot twists."* - Me, at 3 AM debugging.
 
 **🎯 Random Fun Facts:**
-- 🍝 I've eaten pasta for approximately 550 days of my life
-- 🌙 I code best between 10 PM and 6 AM
-- ⬆️ I wrote this README at 2:17 AM
-- 🎮 I can build a working Roblox game in under 2 hours
-- 💖 I actually have a girlfriend (1 in 1B chance for a dev 🤓)
+- 🍝 I've consumed pasta for ~600 days of my life
+- 🌙 My coding superpowers peak at midnight
+- ⬆️ This README was crafted at 4:23 AM
+- 🎮 Built a Roblox game prototype in 1.5 hours
+- ☕ Survive on 3 cups of coffee daily
 
 </div>
 
@@ -208,13 +236,15 @@ const xeko = {
 <div align="center">
   <h2>🎵 Coding Playlist</h2>
   
-  <img src="" alt="Spotify recently played"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=XEKOyt&count=5" alt="Spotify recently played"/>
 </div>
+
+---
 
 <div align="center">
   <h2>🌟 Visitor's Guestbook</h2>
   
-  <p><i>Leave a ⭐ if you found my profile interesting!</i></p>
+  <p><i>Drop a ⭐ or say hi if you vibe with my profile!</i></p>
   
   <img src="https://img.shields.io/badge/Say%20Hi-👋-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Say Hi"/>
   <img src="https://img.shields.io/badge/Follow%20Me-🚀-blue?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
@@ -224,7 +254,7 @@ const xeko = {
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,7,12,20&height=140&section=footer&text=Thanks%20for%20stopping%20bye!&fontSize=28&fontColor=fff&animation=scaleIn&fontAlignY=70"/>
 </div>
 
 <div align="center">
