@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=34&duration=2500&pause=1500&color=A9FEF7&center=true&vCenter=true&width=960&lines=Hey+there%2C+I'm+XEKO!+%F0%9F%91%8B;Full+Stack+Dev+%26+Roblox+Wizard+%F0%9F%9A%80;Crafting+Epic+Games+%26+Web+Apps+%F0%9F%8E%AE;Fueled+by+Caffeine+%26+Creativity+%E2%98%95;Always+Exploring+New+Tech+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=34&duration=2500&pause=1500&color=A9FEF7&center=true&vCenter=true&width=960&lines=Hey+there%2C+I'm+XEKO!+%F0%9F%91%8B;Dev+in+C%2B%2B%2C+C%23%2C+PHP%2C+C%2C+HTML%2C+CSS%2C+JS%2C+Node.js%2C+Python%2C+Luau" alt="Typing SVG"/>
 </div>
 
 ---
@@ -22,17 +22,7 @@
   </h2>
 </div>
 
-```typescript
-const xeko = {
-  location: "Ohio, USA 🌽",
-  code: ["Luau", "JavaScript", "TypeScript", "Python", "C#", "Java", "Swift"],
-  askMeAbout: ["web dev", "roblox scripting", "game dev", "pasta recipes", "tech trends"],
-  currently_doing: "Building a next-gen portfolio & epic Roblox games",
-  funFact: "I debug code faster after a plate of spaghetti 🍝",
-  goals: ["Master Next.js & Web3", "Launch a viral Roblox game", "Lead an OSS project"],
-  motto: "Code. Innovate. Conquer. 🔁"
-};
-```
+I'm Xeko and I dev in C++, C#, PHP, C, HTML, CSS, JS, Node.js, Python, Luau.
 
 <div align="center">
   <h2>🌐 Connect With Me</h2>
@@ -66,89 +56,9 @@ const xeko = {
 <details open>
 <summary><b>🏆 Core Technologies</b></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,python,cpp,react&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,php,c,html,css,js,nodejs,python,lua&perline=8&theme=dark" />
 </div>
 </details>
-
-<details open>
-<summary><b>📉 Emerging Technologies</b></summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,cs,java,php,dotnet,tailwind&perline=8&theme=dark" />
-</div>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,github,discord,arch,windows,git,figma&perline=8&theme=dark" />
-</div>
-</details>
-
-<details open>
-<summary><b>🎨 Creative & Game Development</b></summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,godot,photoshop,ae,pr,unreal&perline=8&theme=dark" />
-</div>
-</details>
-
----
-
-<div align="center">
-  <h2>📊 Programming Skills & Experience</h2>
-</div>
-
-<div align="center">
-
-| Language | Skill Level | Experience | Primary Use |
-|----------|-------------|------------|-------------|
-| 🌙 Luau | ![Mastered](https://img.shields.io/badge/Mastered-gold) | 4+ years | Roblox Game Development |
-| 🟨 JavaScript | ![Expert](https://img.shields.io/badge/Expert-purple) | 2+ years | Web Development & Automation |
-| 🟦 TypeScript | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | 1+ year | Scalable Web Apps |
-| 🐍 Python | ![Advanced](https://img.shields.io/badge/Advanced-brightgreen) | 2.5+ years | Backend & AI Scripting |
-| ☕ Java | ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | 1+ year | Desktop & Android Apps |
-| 🎯 C# | ![Intermediate](https://img.shields.io/badge/Intermediate-orange) | 8+ months | Unity Game Development |
-| 🔷 Swift | ![Beginner](https://img.shields.io/badge/Beginner-red) | 6+ months | iOS Development |
-| 🎮 Roblox Studio | ![Expert](https://img.shields.io/badge/Expert-purple) | 4+ years | Game Creation & UI Design |
-
-</div>
-
----
-
-<div align="center">
-  <h2>🎓 Certifications & Learning</h2>
-</div>
-
-<div align="center">
-
-| Certification | Provider | Date Earned | Focus |
-|---------------|----------|-------------|-------|
-| Full Stack Web Development | FreeCodeCamp | 2024 | JavaScript, React, Node.js |
-| Roblox Lua Masterclass | DevCommunity | 2023 | Luau, Game Mechanics |
-| Python for Data Science | Coursera | 2024 | Python, Data Analysis |
-| Unity Certified Developer | Unity | 2025 | C#, Game Development |
-
-</div>
-
----
-
-<div align="center">
-  <h2>🏆 Achievements & Milestones</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XEKOyt&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-
-| 🎯 Achievement | 📅 Date | 🏅 Status |
-|---------------|----------|-----------|
-| YouTube 100K Subscribers | 2023 | ✅ Completed |
-| 100+ GitHub Stars | 2024 | ✅ Completed |
-| First Commercial Game Release | 2025 | 🔄 In Progress |
-| Open Source Contributor | 2025 | 📅 Planned |
-
-</div>
 
 ---
 
@@ -166,24 +76,6 @@ const xeko = {
   <a href="https://github.com/XEKOyt/roblox-rpg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XEKOyt&repo=roblox-rpg&theme=onedark&border_color=7F3FBF&bg_color=0D1117" alt="Roblox RPG"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <h2>📈 Current Focus</h2>
-</div>
-
-<div align="center">
-
-```diff
-+ 🌐 Crafting a Next.js-powered portfolio
-+ 🎮 Leading a multiplayer Roblox RPG project
-+ 📺 Scaling my YouTube channel with dev tutorials
-+ 🚀 Mastering advanced TypeScript & Web3
-+ 🌟 Contributing to open source & mentoring devs
-```
-
 </div>
 
 ---
@@ -210,33 +102,6 @@ const xeko = {
 
 <div align="center">
   <img alt="Snake eating commits" src="https://raw.githubusercontent.com/XEKOyt/XEKOyt/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-<div align="center">
-  <h2>💡 Fun Facts & Quotes</h2>
-</div>
-
-<div align="center">
-
-> *"Code is poetry, bugs are plot twists."* - Me, at 3 AM debugging.
-
-**🎯 Random Fun Facts:**
-- 🍝 I've consumed pasta for ~600 days of my life
-- 🌙 My coding superpowers peak at midnight
-- ⬆️ This README was crafted at 4:23 AM
-- 🎮 Built a Roblox game prototype in 1.5 hours
-- ☕ Survive on 3 cups of coffee daily
-
-</div>
-
----
-
-<div align="center">
-  <h2>🎵 Coding Playlist</h2>
-  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=XEKOyt&count=5" alt="Spotify recently played"/>
 </div>
 
 ---
